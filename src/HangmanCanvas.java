@@ -1,3 +1,5 @@
+//Copyright (c) 2017 - present Gsllchb
+
 class HangmanCanvas {
     private int status= 0;
     private final static String[] STEPS = {
